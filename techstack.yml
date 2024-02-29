@@ -2,7 +2,7 @@ repo_name: nabilbk/simple-opencv-kalman-tracker
 report_id: 3dd08ec29ade594c72cfac21e71ffc2c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T11:11:27+00:00'
+timestamp: '2024-02-29T19:23:43+00:00'
 requested_by: web-flow
 provider: github
 branch: master
@@ -20,7 +20,7 @@ tools:
   detection_source_url: https://github.com/nabilbk/simple-opencv-kalman-tracker
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
